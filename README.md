@@ -1,4 +1,3 @@
-# NouMarket SXM
+# NouMarket SXM (version main.js)
 
-Projet React avec Vite, prêt à être déployé sur Vercel.
-Tous les fichiers `.jsx` sont bien présents dans /src.
+Fichier `main.jsx` renommé en `main.js` pour compatibilité maximale avec GitHub et Vercel.
